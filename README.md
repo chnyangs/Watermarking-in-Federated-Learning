@@ -1,24 +1,23 @@
-Watermarking in Federated Learning
-
+# Watermarking in Federated Learning
 
 | Paper                                                        | Core Ranking | Conference | Journal                                                      | Year |
 | ------------------------------------------------------------ | ------------ | ---------- | ------------------------------------------------------------ | ---- |
-| Federated Learning with Privacy-preserving and Model IP-right-protection | Others       |            |                                                              | 2023 |
-| CITS-MEW: Multi-Party Entangled Watermark in Cooperative Intelligent Transportation System |              |            | IEEE Transactions on Intelligent Transportation Systems      | 2023 |
-| Application of Robust Zero-Watermarking Scheme Based on Federated Learning for Securing the Healthcare Data |              |            | IEEE Journal of Biomedical and Health Informatics            | 2023 |
-| Robust and IP-Protecting Vertical Federated Learning against Unexpected Quitting of Parties | Others       | Arxiv      |                                                              | 2023 |
-| FedIPR: Ownership Verification for Federated Deep Neural Network Models |              |            | IEEE Transactions on Pattern Analysis and Machine Intelligence | 2023 |
-| FedZKP: Federated Model Ownership Verification with Zero-knowledge Proof. | Others       | Arxiv      |                                                              | 2023 |
-| FedSOV: Federated Model Secure Ownership Verification with Unforgeable Signature | Others       | Arxiv      |                                                              | 2023 |
-| Intellectual Property (IP) Protection for Deep Learning and Federated Learning Models | Others       | IH&MMSec   |                                                              | 2022 |
-| Watermarking Protocol for Deep Neural Network Ownership Regulation in Federated Learning | A            | ICMEW      |                                                              | 2022 |
-| FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model | Others       | Arxiv      |                                                              | 2022 |
-| WMDefense: Using Watermark to Defense Byzantine Attacks in Federated Learning | A            | INFOCOM    |                                                              | 2022 |
-| Watermarking in Secure Federated Learning: A Verification Framework Based on Client-Side Backdooring | Others       | Arxiv      |                                                              | 2022 |
-| Indy528 — Federated Learning Model Tokenization with Non-Fungible Tokens(NFT) and Model Cards | B            | MASS       |                                                              | 2022 |
-| Secure Federated Learning Model Verification: A Client-side Backdoor Triggered Watermarking Scheme | B            | SMC        |                                                              | 2021 |
-| WAFFLE: Watermarking in Federated Learning                   | B            | SRDS       |                                                              | 2021 |
-| Deep Federated Learning for IoT-based Decentralized Healthcare Systems | B            | IWCMC      |                                                              | 2021 |
-| Federated Learning for Site Aware Chest Radiograph Screening | B            | ISBI       |                                                              | 2021 |
-| On the Design of Medical Data Ecosystem for Improving Healthcare Research and Commercial Incentive | Others       | CogMI      |                                                              | 2021 |
-| An Energy-aware Task Scheduler Based in Ownership Fairness Applied to Federated Grids | Others       | ISCC       |                                                              | 2018 |
+| [Federated Learning with Privacy-preserving and Model IP-right-protection](https://pure.aber.ac.uk/ws/portalfiles/portal/63580947/s11633_022_1343_2.pdf) | Others       |            |                                                              | 2023 |
+| [CITS-MEW: Multi-Party Entangled Watermark in Cooperative Intelligent Transportation System](https://dl.acm.org/doi/abs/10.1109/TITS.2022.3225116) |              |            | IEEE Transactions on Intelligent Transportation Systems      | 2023 |
+| [Application of Robust Zero-Watermarking Scheme Based on Federated Learning for Securing the Healthcare Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9594451) |              |            | IEEE Journal of Biomedical and Health Informatics            | 2023 |
+| [Robust and IP-Protecting Vertical Federated Learning against Unexpected Quitting of Parties](https://arxiv.org/pdf/2303.18178.pdf) | Others       | Arxiv      |                                                              | 2023 |
+| [FedIPR: Ownership Verification for Federated Deep Neural Network Models](https://arxiv.org/pdf/2109.13236.pdf) |              |            | IEEE Transactions on Pattern Analysis and Machine Intelligence | 2023 |
+| [FedZKP: Federated Model Ownership Verification with Zero-knowledge Proof](https://arxiv.org/pdf/2305.04507.pdf) | Others       | Arxiv      |                                                              | 2023 |
+| [FedSOV: Federated Model Secure Ownership Verification with Unforgeable Signature](https://arxiv.org/pdf/2305.06085.pdf) | Others       | Arxiv      |                                                              | 2023 |
+| [Intellectual Property (IP) Protection for Deep Learning and Federated Learning Models](https://arxiv.org/pdf/2011.13564.pdf) | Others       | IH&MMSec   |                                                              | 2022 |
+| [Watermarking Protocol for Deep Neural Network Ownership Regulation in Federated Learning](https://ieeexplore.ieee.org/document/9859395) | A            | ICMEW      |                                                              | 2022 |
+| [FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model](https://arxiv.org/pdf/2211.07160.pdf) | Others       | Arxiv      |                                                              | 2022 |
+| [WMDefense: Using Watermark to Defense Byzantine Attacks in Federated Learning](https://ieeexplore.ieee.org/document/9798217) | A            | INFOCOM    |                                                              | 2022 |
+| [Watermarking in Secure Federated Learning: A Verification Framework Based on Client-Side Backdooring](https://arxiv.org/pdf/2211.07138.pdf) | Others       | Arxiv      |                                                              | 2022 |
+| [Indy528 — Federated Learning Model Tokenization with Non-Fungible Tokens(NFT) and Model Cards](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9973499) | B            | MASS       |                                                              | 2022 |
+| [Secure Federated Learning Model Verification: A Client-side Backdoor Triggered Watermarking Scheme](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9658998) | B            | SMC        |                                                              | 2021 |
+| [WAFFLE: Watermarking in Federated Learning](https://arxiv.org/pdf/2008.07298.pdf) [[Code]](https://github.com/ssg-research/WAFFLE)                   | B            | SRDS       |                                                              | 2021 |
+| [Deep Federated Learning for IoT-based Decentralized Healthcare Systems](https://ieeexplore.ieee.org/document/9498820) | B            | IWCMC      |                                                              | 2021 |
+| [Federated Learning for Site Aware Chest Radiograph Screening](https://ieeexplore.ieee.org/document/9433876) | B            | ISBI       |                                                              | 2021 |
+| [On the Design of Medical Data Ecosystem for Improving Healthcare Research and Commercial Incentive](https://ieeexplore.ieee.org/document/9750303) | Others       | CogMI      |                                                              | 2021 |
+| [An Energy-aware Task Scheduler Based in Ownership Fairness Applied to Federated Grids](https://ieeexplore.ieee.org/document/8538673) | Others       | ISCC       |                                                              | 2018 |
